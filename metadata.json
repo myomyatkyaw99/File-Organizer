@@ -1,0 +1,6 @@
+{
+  "name": "File Organizer Script",
+  "description": "Python script to organize files by extension or category into dedicated folders with detailed move logging and an interactive workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
